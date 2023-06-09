@@ -5,7 +5,7 @@
 `quarto_demo_plotly5-1X.html`: rendered respective notebook using quarto 1.3.361  
 `requirements_plotly5-1X.txt`: requirements used to create a venv 
 
-Notebook expects a venv named `quarto39`. 
+Notebook expects a venv named `quarto39`. Tested using python=3.9.
 
 To switch between plotly versions without re-installing the whole venv: `pip install plotly==5.11 force reinstall` 
 
